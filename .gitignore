@@ -1,0 +1,5 @@
+cert/*
+data/*
+.env
+conf/*
+logs
